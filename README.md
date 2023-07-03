@@ -1,6 +1,6 @@
 # TinyPedSeg: A Tiny Pedestrian Segmentation Benchmark for Top-Down Drone Images
 
-You can follow the following link to download the dataset.
+You can download both the train and test files under the dataset folder.
 
 The codes will be published soon.
 
