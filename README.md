@@ -1,5 +1,7 @@
 # TinyPedSeg: A Tiny Pedestrian Segmentation Benchmark for Top-Down Drone Images
 
+[[`paper`](https://ieeexplore.ieee.org/document/10215829)]
+
 ## Code Availability
 To access the main codebase please switch to tinypedseg_code branch.
 
