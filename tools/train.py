@@ -114,7 +114,7 @@ def parse_args():
         default=None,
         type=str,
         help='Split path')
-    parser.add_argument('--data-root', default='./tinypedseg', type=str, help='Root directory of the dataset')
+    parser.add_argument('--data-root', default='./', type=str, help='Root directory of the dataset')
     parser.add_argument('--classes', nargs='+', default=['background', 'pedestrian'], help='List of class names')
     parser.add_argument('--palette', nargs='+', type=int, default=[0, 0, 0, 256, 256, 256], help='Color palette')    
     args = parser.parse_args()
