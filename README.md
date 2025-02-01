@@ -28,9 +28,9 @@ python tools/train.py --config <path_to_config> --work-dir <path_to_output_direc
 ```
 
 ### Example Usage
-For training with the `deeplabv3_unet_tos` configuration:
+For training with the `deeplabv3plus_resnet_tos` configuration:
 ```sh
-python tools/train.py --config ./configs/tos/deeplabv3_unet_tos_deneme.py --work-dir ./work_dirs6/deeplabv3_unet_output
+python tools/train.py --config ./configs/tos/deeplabv3plus_resnet_tos.py --work-dir ./work_dirs/deeplabv3plus_resnet
 ```
 
 ### Configurations Available
