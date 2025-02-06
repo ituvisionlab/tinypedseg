@@ -3,7 +3,7 @@
 [[`paper`](https://ieeexplore.ieee.org/document/10215829)]
 
 ## Code Availability
-To access the main codebase please switch to tinypedseg_code branch.
+To access the main codebase, please switch to the [tinypedseg_code branch](https://github.com/ituvisionlab/tinypedseg/tree/tinypedseg_code).
 
 ## Setting Up the Environment
 To run the code in this repository, you need to create a Conda environment with the following dependencies:
