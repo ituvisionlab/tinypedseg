@@ -1,4 +1,4 @@
-# README
+# TinyPedSeg: A Tiny Pedestrian Segmentation Benchmark for Top-Down Drone Images
 
 ## Setting Up the Environment
 To run the code in this repository, you need to create a Conda environment with the following dependencies:
